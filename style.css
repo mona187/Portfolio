@@ -1,0 +1,53 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 60;
+}
+
+h2 {
+  color: 3c096c;
+  text-align: left;
+  font-size: 40;
+}
+.hi {
+  font-style: italic;
+}
+#myimg {
+  border: 30px solid;
+  padding: 30px;
+  display: block;
+  margin: 0 auto;
+}
+ol {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25;
+  font-style: bold;
+  color: e0aaff;
+}
+ul {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25;
+  font-style: bold;
+  color: e0aaff;
+}
+
+.intro {
+  font-weight: bold;
+  font-size: 30;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#intro2 {
+  font-weight: bold;
+  font-size: 20;
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#name {
+  font-weight: bold;
+  font-size: 40;
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: left;
+}
+#email {
+  font-style: italic;
+  font-size: 20;
+}
